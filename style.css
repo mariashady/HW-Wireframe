@@ -28,6 +28,7 @@ aside {
     float: right;
     height: 320px;
     width: 447px;
+//I thought by adding 20px padding here it would take care of the spacing at the top but that didn't work!
 }
 section {
     width: 495px; 
